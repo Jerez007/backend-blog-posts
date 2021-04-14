@@ -1,4 +1,3 @@
-// import axios from "axios";
 const axios = require("axios");
 const dotenv = require("dotenv")
 const { get } = require("../routes/posts");

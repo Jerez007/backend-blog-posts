@@ -1,7 +1,3 @@
-// import express from "express";
-// import { getStatus, getPosts } from "../controllers/posts.js";
-// import cache from "../routeCache.js";
-
 const express = require("express");
 const { getStatus, getPosts } = require("../controllers/posts");
 const cache = require("../routeCache");

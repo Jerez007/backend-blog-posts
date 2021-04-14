@@ -1,10 +1,3 @@
-// import express from "express";
-// import bodyParser from "body-parser";
-// import mongoose from "mongoose";
-// import cors from "cors";
-// import axios from 'axios'
-// import postsRoutes from "./routes/posts.js";
-
 const express = require('express')
 const bodyParser = require('body-parser')
 const mongoose = require('mongoose')
